@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "202345701126",
+    "firebase_url": "https://steps-72b75-default-rtdb.firebaseio.com",
+    "project_id": "steps-72b75",
+    "storage_bucket": "steps-72b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202345701126:android:e674725ae3f2e53e5c4887",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFju-bT1jj3J-5HhJxeioyJ7GDeiQH-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202345701126-6ccdsbl74ffd8o8urg41oi0aq1q5m6jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loops.fitness.tracksteps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202345701126:android:a9cb32d6ef2bda6e5c4887",
+        "android_client_info": {
+          "package_name": "com.example.coloring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFju-bT1jj3J-5HhJxeioyJ7GDeiQH-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202345701126-6ccdsbl74ffd8o8urg41oi0aq1q5m6jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loops.fitness.tracksteps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202345701126:android:c94034b082ae50345c4887",
+        "android_client_info": {
+          "package_name": "com.example.language_learner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFju-bT1jj3J-5HhJxeioyJ7GDeiQH-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202345701126-6ccdsbl74ffd8o8urg41oi0aq1q5m6jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loops.fitness.tracksteps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202345701126:android:c00b186c624a3ed25c4887",
+        "android_client_info": {
+          "package_name": "com.example.testing_football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFju-bT1jj3J-5HhJxeioyJ7GDeiQH-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202345701126-6ccdsbl74ffd8o8urg41oi0aq1q5m6jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loops.fitness.tracksteps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202345701126:android:f9cce9468584a7995c4887",
+        "android_client_info": {
+          "package_name": "com.loops.budget_manger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202345701126-nijp7j3bkqsis9f9pug13ae90cq9f64b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loops.budget_manger",
+            "certificate_hash": "1b7d53b423d3ac757e85809ad0c412e27f3bbd1a"
+          }
+        },
+        {
+          "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFju-bT1jj3J-5HhJxeioyJ7GDeiQH-Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202345701126-hc49panggvebu4v8r066dob4b53c10pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202345701126-6ccdsbl74ffd8o8urg41oi0aq1q5m6jt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loops.fitness.tracksteps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
