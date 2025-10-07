@@ -38,6 +38,10 @@ dependencies:
   firebase_auth: ^6.1.0
   cloud_firestore: ^6.0.2
   get: ^4.7.2
+  device_info_plus: ^12.1.0
+  permission_handler: ^12.0.1
+  firebase_storage: ^13.0.2
+  image_picker: ^1.0.4
 
 dev_dependencies:
   flutter_test:
